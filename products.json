@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name":"📱 Sony Xperia 10 III",
+        "price": 25000,
+        "image": "sony-10-1.jpeg",
+        "url": "sony-10.html"
+    },
+    {
+        "id": 2,
+        "name":"📱 SHARP AQUOS R6",
+        "price": 45999,
+        "image": "aquos-1.jpeg",
+        "url": "aquos.html"
+    },
+    {
+        "id": 3,
+        "name":"📱 Sony Xperia 5 II",
+        "price": 33000,
+        "image": "sony-5-1.jpeg",
+        "url": "sony-5.html"
+    },
+    {
+        "id": 4,
+        "name":"📱 Pixel 6a",
+        "price": 48000,
+        "image": "pixel-6a-1.jpeg",
+        "url": "pixel-6a.html"
+    },
+    {
+        "id": 5,
+        "name":"📱 Pixel 5",
+        "price": 33000,
+        "image": "pixel-5-1.jpeg",
+        "url": "pixel-5.html"
+    },
+    {
+        "id": 6,
+        "name":"📱 Pixel 6 PRO",
+        "price": 57999,
+        "image": "pixel-6-pro-1.jpeg",
+        "url": "pixel-6-pro.html"
+    },
+    {
+        "id": 7,
+        "name":"📱 NOTHING PHONE 1 5G",
+        "price": 60000,
+        "image": "nothing-1.jpeg",
+        "url": "nothing.html"
+    },
+    {
+        "id": 8,
+        "name":"📱 Realme C55 256GB",
+        "price": 28999,
+        "image": "realme-1.jpeg",
+        "url": "realme.html"
+    }
+]
